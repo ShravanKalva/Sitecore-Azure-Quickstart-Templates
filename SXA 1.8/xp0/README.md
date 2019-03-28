@@ -1,4 +1,4 @@
-# Sitecore Experience Accelerator module for Sitecore XP0 Environment
+# Sitecore Experience Accelerator module for Sitecore XP0 Environment - New
 
 This template deploys Sitecore Experience Accelerator (SXA) and Sitecore PowerShell Extension (SPE)
 modules into a Sitecore XP0 (XPSingle) Environment (single all-in-one instance).
